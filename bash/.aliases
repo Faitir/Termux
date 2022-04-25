@@ -1,0 +1,8 @@
+#alias nano='nano -$'
+#alias ls='ls --color=auto'
+#alias cls='clear'
+#alias py='python'
+#alias ftp-on='sv up ftpd && echo "FTP on port 8021"'
+#alias ftp-off='sv down ftpd'
+#alias ssh-on='sshd'
+#alias ssh-off='pkill sshd'
