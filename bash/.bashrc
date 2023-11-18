@@ -1,12 +1,11 @@
-#Files
+# Files ->
 #source ~/.bashrc_colors
 #source ~/.aliases
-#source ~/.aliases_scripts
 
-#Logo-and-charactristics
+# Logo-and-charactristics ->
 #neofetch
 
-#Bash-line
+# Bash-line ->
 #LINE=$BGreen
 #NAME=$BRed
 #TEXT=$IWhite
