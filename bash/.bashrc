@@ -2,10 +2,10 @@
 #source ~/.bashrc_colors
 #source ~/.aliases
 
-# Logo-and-charactristics ->
+# Initial logo ->
 #neofetch
 
-# Bash-line ->
+# Command Line ->
 #LINE=$BGreen
 #NAME=$BRed
 #TEXT=$IWhite
