@@ -1,4 +1,4 @@
-# Files ->
+# Import ->
 #source ~/.bashrc_colors
 #source ~/.aliases
 
